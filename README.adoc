@@ -1,0 +1,3 @@
+# my-camel-app Documentation
+
+A my-camel-app
